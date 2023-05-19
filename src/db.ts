@@ -1,3 +1,4 @@
 module.exports = {
-  a: 111
+  a: 1111,
+  c: 33,
 }
